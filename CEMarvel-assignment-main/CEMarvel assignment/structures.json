@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Golden Gate Bridge",
+        "country": "usa",
+        "description": "Opened as a San Francisco landmark on May 27, 1937, it is 2,737 m long, 67 m apart from the bridge and water, and 227 m tall in total with the tower, it was constructed as the world's first suspension bridge connecting San Francisco Bay and Marine County. It was first designed in 1917 by Joseph Strauss, who had previously designed about 400 bridges, and it proceeded with a project to overcome the difficult economy during the Great Depression.",
+        "latitude": 37.820385,
+        "longitude": -122.479064,
+        "picture": "Golden Gate Bridge"
+    },
+    {
+        "id": 2,
+        "name": "Leaning Tower of Pisa",
+        "country": "italy",
+        "description": "The Leaning Tower of Pisa is a Romanesque white marble tower in the Duomo square of Pisa, a city in the Tuscan region of central Italy. Originally called Duomo, the bell tower attached to the Pisa Cathedral is much more famous than the cathedral. This is due to the appearance of the Leaning Tower, the Seven Wonders of the World, which is 56.67m at the highest and 55.86m at the lowest, tilted more than 5 degrees south. The construction of the cathedral and bell tower commemorates Pisa's victory in the war against the Saracens Empire, which was then a prosperous maritime kingdom. However, the bell tower began to tilt as one of the grounds of the tower sank from the time construction began in 1173, and construction that continued to the third floor at the time was suspended and finally completed with the eighth floor by the 14th century.",
+        "latitude": 43.722890,
+        "longitude": 10.396340,
+        "picture": "Leaning Tower of Pisa"
+    },
+    {
+        "id": 3,
+        "name": "Eiffel Tower",
+        "country": "france",
+        "description": "Named after the architect Eiffel, the tower was completed on March 31, 1889, and opened on May 6, 1889. A massive pylon built by the French architect Alexandre Gustave Eiffel (1832-1923). A landmark representing France and Paris. As an innovation point in modern architecture, it was the tallest structure in the world until 1930, when the Chrysler Building was completed in 1889, when it achieved a phenomenal height of 300 m.",
+        "latitude": 48.857841,
+        "longitude": 2.294374,
+        "picture": "Eiffel Tower"
+    },
+    {
+        "id": 4,
+        "name": "Pyramid",
+        "country": "egypt",
+        "description": "It is a huge structure that is believed to have been used as a royal tomb in the early days of ancient Egypt. It is widely believed that a tomb is a tomb, but some argue that it was not just used for tomb purposes, as shown in the paragraph below. Many hypotheses are rampant, including claims that it is the temporary residence of the soul before going into the afterlife, but none of the remaining pyramids have been robbed and the inside has been preserved, making it impossible to verify the hypothesis.",
+        "latitude": 29.886554,
+        "longitude": 31.208632,
+        "picture": "Pyramid"
+         }
+      ]
